@@ -136,7 +136,7 @@ a:hover{
     padding: 30px;
     line-height: 40px;
     visibility: hidden;
-    border-radius: 20%;
+    border-radius: 5%;
   }
 .alert{
     color: black;
